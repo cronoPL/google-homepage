@@ -1,4 +1,4 @@
-Hello everyone and welocme to my first project with Odin.
+Hello everyone and welcome to my first project with Odin.
 Hopefully, this will allow me to work with new skills and create something really good.
 
 Please have a look at this great website that allows me to fullfill my dream of becoming a coder

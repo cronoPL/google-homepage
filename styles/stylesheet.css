@@ -1,0 +1,19 @@
+body, td, a, p, .h {
+
+    font-family: arial,sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:active {
+
+    text-decoration: underline;
+
+}
+
+p {
+    color: red
+}
